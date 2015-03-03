@@ -1,0 +1,13 @@
+c:\users\thor\documents\visual studio 2013\Projects\RPGTest2\RPGTest2\bin\Debug\RPGTest2.exe.config
+c:\users\thor\documents\visual studio 2013\Projects\RPGTest2\RPGTest2\bin\Debug\RPGTest2.exe
+c:\users\thor\documents\visual studio 2013\Projects\RPGTest2\RPGTest2\bin\Debug\RPGTest2.pdb
+c:\users\thor\documents\visual studio 2013\Projects\RPGTest2\RPGTest2\obj\Debug\RPGTest2.Encounters.resources
+c:\users\thor\documents\visual studio 2013\Projects\RPGTest2\RPGTest2\obj\Debug\RPGTest2.EnterName.resources
+c:\users\thor\documents\visual studio 2013\Projects\RPGTest2\RPGTest2\obj\Debug\RPGTest2.Properties.Resources.resources
+c:\users\thor\documents\visual studio 2013\Projects\RPGTest2\RPGTest2\obj\Debug\RPGTest2.csproj.GenerateResource.Cache
+c:\users\thor\documents\visual studio 2013\Projects\RPGTest2\RPGTest2\obj\Debug\RPGTest2.exe
+c:\users\thor\documents\visual studio 2013\Projects\RPGTest2\RPGTest2\obj\Debug\RPGTest2.pdb
+C:\Users\Thor\documents\visual studio 2013\Projects\RPGTest2\RPGTest2\obj\Debug\RPGTest2.csprojResolveAssemblyReference.cache
+C:\Users\Stampe\Documents\Visual Studio 2013\githubprojects\RPGtest2\RPGTest2\bin\Debug\RPGTest2.exe.config
+C:\Users\Stampe\Documents\Visual Studio 2013\githubprojects\RPGtest2\RPGTest2\obj\Debug\RPGTest2.exe
+C:\Users\Stampe\Documents\Visual Studio 2013\githubprojects\RPGtest2\RPGTest2\obj\Debug\RPGTest2.pdb
